@@ -1,4 +1,4 @@
-# Homework 7 Design Document
+## Design Document
 
  * Nathan Yee
  * December 4, 2024
